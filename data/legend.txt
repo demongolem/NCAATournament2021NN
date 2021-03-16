@@ -1,0 +1,68 @@
+2250	Gonzaga
+2026	Appalachian State	
+201	Oklahoma	
+142	Missouri
+156	Creighton
+2540	UCSB
+258	Virginia
+195	Ohio
+30	USC
+2181	Drake
+2305	Kansas
+331	E Washington
+2483	Oregon
+2670	VCU
+2294	Iowa
+2253	Grand Canyon
+130	Michigan
+2640	Texas Southern
+99	LSU
+179	St Bonaventure
+38	Colorado
+46	Georegtown
+52	FSU
+2430	UNCG
+252	BYU
+127	Michigan St
+251	Texas
+2000	Abilene Christian
+41	Connecticut
+120	Maryland
+333	Alabama
+314	Iona
+239	Baylor
+42	Hartford
+153	North Carolina
+275	Wisconsin
+222	Villanova
+2737	Winthrop
+2509	Purdue
+249	North Texas
+2641	Texas Tech
+328	Utah St
+8	Arkansas
+2142	Colgate
+57	Florida
+259	Virginia Tech
+194	Ohio St
+198	Oral Roberts
+356	Illinois
+2182	Drexel
+2350	Loyola-Chicago
+59	Georgia Tech
+2633	Tennessee
+204	Oregon St
+197	Oklahoma St
+2335	Liberty
+21	San Diego St
+183	Syracuse
+277	West Virginia
+2413	Morehead St.
+228	Clemson
+164	Rutgers
+248	Houston
+325	Cleveland St
+2450	Norfolk St
+116	Mt. St. Mary's
+2724	Wichita St
+26	UCLA

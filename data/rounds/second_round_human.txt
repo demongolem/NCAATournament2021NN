@@ -1,0 +1,16 @@
+Gonzaga	Oklahoma
+UCSB	Virginia
+Drake	E Washington
+VCU	Iowa
+Michigan	St Bonaventure
+Colorado	FSU
+BYU	Abilene Christian
+Connecticut	Alabama
+Baylor	North Carolina
+Winthrop	North Texas
+Utah St	Colgate
+Virginia Tech	Ohio St
+Illinois	Loyola-Chicago
+Tennessee	Liberty
+San Diego St	West Virginia
+Clemson	Houston

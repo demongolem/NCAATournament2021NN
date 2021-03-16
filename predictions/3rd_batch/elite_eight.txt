@@ -1,0 +1,4 @@
+Team 2250 vs 2294 has tensor([[1.0000]], grad_fn=<SigmoidBackward>) and tensor([[0.2832]], grad_fn=<SigmoidBackward>)
+Team 130 vs 2000 has tensor([[0.9999]], grad_fn=<SigmoidBackward>) and tensor([[0.9933]], grad_fn=<SigmoidBackward>)
+Team 239 vs 2142 has tensor([[0.7653]], grad_fn=<SigmoidBackward>) and tensor([[0.9989]], grad_fn=<SigmoidBackward>)
+Team 356 vs 248 has tensor([[0.6311]], grad_fn=<SigmoidBackward>) and tensor([[1.0000]], grad_fn=<SigmoidBackward>)

@@ -1,0 +1,1 @@
+Team 2250 vs 248 has tensor([[1.0000]], grad_fn=<SigmoidBackward>) and tensor([[0.9610]], grad_fn=<SigmoidBackward>)

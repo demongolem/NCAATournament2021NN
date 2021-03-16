@@ -1,0 +1,32 @@
+Gonzaga	Norfolk St
+Oklahoma	Missouri
+Creighton	UCSB
+Virginia	Ohio
+USC	Drake
+Kansas	E Washington
+Oregon	VCU
+Iowa	Grand Canyon
+Michigan	Texas Southern
+LSU	St Bonaventure
+Colorado	Georegtown
+FSU	UNCG
+BYU	UCLA
+Texas	Abilene Christian
+Connecticut	Maryland
+Alabama	Iona
+Baylor	Hartford
+North Carolina	Wisconsin
+Villanova	Winthrop
+Purdue	North Texas
+Texas Tech	Utah St
+Arkansas	Colgate
+Florida	Virginia Tech
+Ohio St	Oral Roberts
+Illinois	Drexel
+Loyola-Chicago	Georgia Tech
+Tennessee	Oregon St
+Oklahoma St	Liberty
+San Diego St	Syracuse
+West Virginia	Morehead St.
+Clemson	Rutgers
+Houston	Cleveland St

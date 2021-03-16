@@ -1,0 +1,8 @@
+Gonzaga	UCSB
+Drake	Iowa
+Michigan	Colorado
+Abilene Christian	Alabama
+Baylor	Winthrop
+Colgate	Ohio St
+Illinois	Liberty
+San Diego St	Houston
